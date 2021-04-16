@@ -1,0 +1,2 @@
+Posto su sve lozinke kriptovane pomocu md5() funkcije, prvi deo mejla do @ je kriptovan i to je password svakog korisnika.
+
